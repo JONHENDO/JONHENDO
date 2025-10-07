@@ -4,11 +4,6 @@
 
 
 
-# Bio:
-I'm a second year computing student at Napier<br>
-<br>
-
-
 # Experience With:
 <p align="center">
   <a href="https://skillicons.dev">
